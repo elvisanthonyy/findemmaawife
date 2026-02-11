@@ -122,11 +122,12 @@ body {
   color: #3a3a3a;
 }
 .angle {
-  margin-left: 5px;
+  margin-left: 9px;
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 35px;
+  padding-bottom: 6px;
   transition: rotate 2s ease-in;
 }
 
