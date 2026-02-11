@@ -55,13 +55,16 @@ body {
   animation: main 2s ease-in;
 }
 .image-cont {
+  display: flex;
+  align-items: center;
   border-radius: 20px;
   overflow: hidden;
   animation: main 2.5s ease-in;
+  background-color: rgb(226, 226, 226);
 }
 
 .image {
-  width: 105%;
+  width: 110%;
 }
 
 .info-cont {
